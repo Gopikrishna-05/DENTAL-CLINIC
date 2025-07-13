@@ -1,10 +1,10 @@
-git clone https://github.com/Gopikrishna-05/DENTAL-CLINIC.git  Download the project from GitHub
+ Download the project from GitHub: git clone https://github.com/Gopikrishna-05/DENTAL-CLINIC.git 
   
-cd dental-clinic  Move into the project folder
+Move into the project folder: cd dental-clinic
 
-npm install       Install all required npm packages
+Install all required npm packages:  npm install 
 
-npm run dev       Start the local server to run the app
+Start the local server to run the app: npm run dev 
 
 after run on project
 
